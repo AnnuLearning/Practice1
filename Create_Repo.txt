@@ -1,0 +1,4 @@
+Steps to create a repo-
+Click on Home->cat symbol
+Mention repo name
+Click on repo name(Practice1)
